@@ -1,0 +1,28 @@
+.container{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.history{
+    background-color: red;
+    border-width: 2px;
+    display: flex;
+    border-color: black;
+    
+}
+
+.calculator{
+    
+}
+
+.screen{
+    display: flex;
+    
+}
